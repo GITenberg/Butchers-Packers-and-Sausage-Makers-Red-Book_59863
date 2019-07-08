@@ -1,11 +1,16 @@
 _repo: Butchers-Packers-and-Sausage-Makers-Red-Book_59863
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59863-h/images/cover.jpg
 creator:
   author:
     agent_name: Sayer, Geo. J.
     gutenberg_agent_id: '50664'
     url: http://www.gutenberg.org/2009/agents/50664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59863#Butchers-Packers-and-Sausage-Makers-Red-Book
 gutenberg_issued: '2019-07-06'
 gutenberg_type: Text
 identifiers:
